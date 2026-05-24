@@ -1,0 +1,11 @@
+pandas
+numpy
+ta
+aiohttp
+requests
+joblib
+portalocker
+matplotlib
+vaderSentiment
+huggingface_hub
+websockets
